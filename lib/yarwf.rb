@@ -1,5 +1,5 @@
-require "yarwf/version"
+require 'yarwf/version'
+require 'yarwf/application'
 
 module Yarwf
-  # Your code goes here...
 end
