@@ -1,4 +1,4 @@
-require_relative '../../minitest_helper'
+require 'minitest_helper'
 
 class SimpleApp < Yarwf::Application
 end

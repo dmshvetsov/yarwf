@@ -10,7 +10,7 @@ module Yarwf
         { 'Content-Type' => 'text/html' },
         [return_value]
       ]
-    rescue NameError
+    rescue LoadError
       default_response
     end
 
